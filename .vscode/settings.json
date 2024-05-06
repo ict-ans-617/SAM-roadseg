@@ -1,0 +1,7 @@
+{
+    "python.analysis.exclude": [
+        "**/camera*",
+        "**/test_output*",
+        "**/*output*"
+    ]
+}
